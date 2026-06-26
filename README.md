@@ -156,12 +156,6 @@ Some of the major DAX measures include:
 
 ---
 
-## Customer Analysis
-
-![Customer Analysis](Images/CustomerAnalysis.png)
-
----
-
 ## Product Analysis
 
 ![Product Analysis](Images/ProductAnalysis.png)
