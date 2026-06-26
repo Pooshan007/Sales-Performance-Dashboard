@@ -80,20 +80,7 @@ Provides a high-level overview of business performance.
 
 ---
 
-## 2️⃣ Customer Analysis
-
-Focuses on customer purchasing patterns.
-
-### Includes
-
-- Top Customers
-- Customer Revenue Contribution
-- Customer Purchase Frequency
-- Customer-wise Sales Analysis
-
----
-
-## 3️⃣ Product Analysis
+## 2️⃣ Product Analysis
 
 Analyzes product performance.
 
@@ -235,9 +222,8 @@ git clone https://github.com/yourusername/Sales-Performance-Dashboard.git
 
 B.Tech – Computer Science (Data Science)
 
-GitHub: https://github.com/yourusername
 
-LinkedIn: https://linkedin.com/in/yourusername
+LinkedIn: https://linkedin.com/in/pooshan-goud-nalla/
 
 ---
 
